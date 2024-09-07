@@ -1,12 +1,12 @@
 ## Hi, I'm Mishaal!
 
-- 😄 Pronouns: she/her
-- 💻 Work experience:
-* Programming Intern @ Behaviour Interactive
-* Unity Developer Intern @ City From Naught
-* Game Developer Intern @ Webizsol
-- 💬 Talk to me about: Arcane (or don't because I will yap), Baldurs Gate, and Valorant Esports
-- 📫 Find me on: LinkedIn | Twitter | Email
+* 😄 Pronouns: she/her
+* 💻 Work experience:
+- Programming Intern @ Behaviour Interactive
+- Unity Developer Intern @ City From Naught
+- Game Developer Intern @ Webizsol
+* 💬 Talk to me about: Arcane (or don't because I will yap), Baldurs Gate, and Valorant Esports
+* 📫 Find me on: LinkedIn | Twitter | Email
 
 <!--
 **MishaalButt/MishaalButt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
