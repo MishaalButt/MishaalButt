@@ -1,6 +1,6 @@
 ## Hi, I'm Mishaal!
 
-- 😄 Pronouns: she/her
+- 😸 Pronouns: she/her
 - 💻 Work experience:
   -  Programming Intern @ Behaviour Interactive
   -  Unity Developer Intern @ City From Naught
