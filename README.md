@@ -2,6 +2,7 @@
 
 - 😸 Pronouns: she/her
 - 💻 Work experience:
+  - Build Platforms Engineer @ Riot Games
   -  Programming Intern @ Behaviour Interactive
   -  Unity Developer Intern @ City From Naught
   -  Game Developer Intern @ Webizsol
