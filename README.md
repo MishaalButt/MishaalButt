@@ -2,10 +2,12 @@
 
 - 😸 Pronouns: she/her
 - 💻 Work experience:
+  - Developer Experience Workflow Engineer @ Riot Games
+  - Software Engineer @ BitGo
   - Build Platforms Engineer @ Riot Games
-  -  Programming Intern @ Behaviour Interactive
-  -  Unity Developer Intern @ City From Naught
-  -  Game Developer Intern @ Webizsol
+  - Programming Intern @ Behaviour Interactive
+  - Unity Developer Intern @ City From Naught
+  - Game Developer Intern @ Webizsol
 - 💬 Talk to me about: Arcane (or don't because I will yap), Baldurs Gate, and Valorant Esports
 - 📫 Find me on: LinkedIn | Twitter | Email
 
